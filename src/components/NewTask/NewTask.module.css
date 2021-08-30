@@ -1,0 +1,11 @@
+.heading {
+  text-align: center;
+}
+.button {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+}
+.input {
+  margin-bottom: 10px;
+}
